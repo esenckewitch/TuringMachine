@@ -1,0 +1,1089 @@
+Operation: q0*>q0*1
+Positoin: 1
+[*, 1, 1, 1, X, 1, 1, 1, 1, =, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q01>q011
+Positoin: 2
+[*, 1, 1, 1, X, 1, 1, 1, 1, =, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q01>q011
+Positoin: 3
+[*, 1, 1, 1, X, 1, 1, 1, 1, =, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q01>q011
+Positoin: 4
+[*, 1, 1, 1, X, 1, 1, 1, 1, =, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q0X>q1X1
+Positoin: 5
+[*, 1, 1, 1, X, 1, 1, 1, 1, =, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q11>q2a1
+Positoin: 6
+[*, 1, 1, 1, X, a, 1, 1, 1, =, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q21>q21-1
+Positoin: 5
+[*, 1, 1, 1, X, a, 1, 1, 1, =, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q2a>q2a-1
+Positoin: 4
+[*, 1, 1, 1, X, a, 1, 1, 1, =, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q2X>q3X-1
+Positoin: 3
+[*, 1, 1, 1, X, a, 1, 1, 1, =, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q31>q4a1
+Positoin: 4
+[*, 1, 1, a, X, a, 1, 1, 1, =, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q4X>q4X1
+Positoin: 5
+[*, 1, 1, a, X, a, 1, 1, 1, =, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q4a>q4a1
+Positoin: 6
+[*, 1, 1, a, X, a, 1, 1, 1, =, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q41>q411
+Positoin: 7
+[*, 1, 1, a, X, a, 1, 1, 1, =, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q41>q411
+Positoin: 8
+[*, 1, 1, a, X, a, 1, 1, 1, =, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q41>q411
+Positoin: 9
+[*, 1, 1, a, X, a, 1, 1, 1, =, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q4=>q4=1
+Positoin: 10
+[*, 1, 1, a, X, a, 1, 1, 1, =, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q4*>q511
+Positoin: 11
+[*, 1, 1, a, X, a, 1, 1, 1, =, 1, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q5s>q2*-1
+Positoin: 10
+[*, 1, 1, a, X, a, 1, 1, 1, =, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q21>q21-1
+Positoin: 9
+[*, 1, 1, a, X, a, 1, 1, 1, =, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q2=>q2=-1
+Positoin: 8
+[*, 1, 1, a, X, a, 1, 1, 1, =, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q21>q21-1
+Positoin: 7
+[*, 1, 1, a, X, a, 1, 1, 1, =, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q21>q21-1
+Positoin: 6
+[*, 1, 1, a, X, a, 1, 1, 1, =, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q21>q21-1
+Positoin: 5
+[*, 1, 1, a, X, a, 1, 1, 1, =, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q2a>q2a-1
+Positoin: 4
+[*, 1, 1, a, X, a, 1, 1, 1, =, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q2X>q3X-1
+Positoin: 3
+[*, 1, 1, a, X, a, 1, 1, 1, =, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q3a>q3a-1
+Positoin: 2
+[*, 1, 1, a, X, a, 1, 1, 1, =, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q31>q4a1
+Positoin: 3
+[*, 1, a, a, X, a, 1, 1, 1, =, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q4a>q4a1
+Positoin: 4
+[*, 1, a, a, X, a, 1, 1, 1, =, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q4X>q4X1
+Positoin: 5
+[*, 1, a, a, X, a, 1, 1, 1, =, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q4a>q4a1
+Positoin: 6
+[*, 1, a, a, X, a, 1, 1, 1, =, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q41>q411
+Positoin: 7
+[*, 1, a, a, X, a, 1, 1, 1, =, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q41>q411
+Positoin: 8
+[*, 1, a, a, X, a, 1, 1, 1, =, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q41>q411
+Positoin: 9
+[*, 1, a, a, X, a, 1, 1, 1, =, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q4=>q4=1
+Positoin: 10
+[*, 1, a, a, X, a, 1, 1, 1, =, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q41>q411
+Positoin: 11
+[*, 1, a, a, X, a, 1, 1, 1, =, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q4*>q511
+Positoin: 12
+[*, 1, a, a, X, a, 1, 1, 1, =, 1, 1, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q5s>q2*-1
+Positoin: 11
+[*, 1, a, a, X, a, 1, 1, 1, =, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q21>q21-1
+Positoin: 10
+[*, 1, a, a, X, a, 1, 1, 1, =, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q21>q21-1
+Positoin: 9
+[*, 1, a, a, X, a, 1, 1, 1, =, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q2=>q2=-1
+Positoin: 8
+[*, 1, a, a, X, a, 1, 1, 1, =, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q21>q21-1
+Positoin: 7
+[*, 1, a, a, X, a, 1, 1, 1, =, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q21>q21-1
+Positoin: 6
+[*, 1, a, a, X, a, 1, 1, 1, =, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q21>q21-1
+Positoin: 5
+[*, 1, a, a, X, a, 1, 1, 1, =, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q2a>q2a-1
+Positoin: 4
+[*, 1, a, a, X, a, 1, 1, 1, =, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q2X>q3X-1
+Positoin: 3
+[*, 1, a, a, X, a, 1, 1, 1, =, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q3a>q3a-1
+Positoin: 2
+[*, 1, a, a, X, a, 1, 1, 1, =, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q3a>q3a-1
+Positoin: 1
+[*, 1, a, a, X, a, 1, 1, 1, =, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q31>q4a1
+Positoin: 2
+[*, a, a, a, X, a, 1, 1, 1, =, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q4a>q4a1
+Positoin: 3
+[*, a, a, a, X, a, 1, 1, 1, =, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q4a>q4a1
+Positoin: 4
+[*, a, a, a, X, a, 1, 1, 1, =, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q4X>q4X1
+Positoin: 5
+[*, a, a, a, X, a, 1, 1, 1, =, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q4a>q4a1
+Positoin: 6
+[*, a, a, a, X, a, 1, 1, 1, =, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q41>q411
+Positoin: 7
+[*, a, a, a, X, a, 1, 1, 1, =, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q41>q411
+Positoin: 8
+[*, a, a, a, X, a, 1, 1, 1, =, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q41>q411
+Positoin: 9
+[*, a, a, a, X, a, 1, 1, 1, =, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q4=>q4=1
+Positoin: 10
+[*, a, a, a, X, a, 1, 1, 1, =, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q41>q411
+Positoin: 11
+[*, a, a, a, X, a, 1, 1, 1, =, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q41>q411
+Positoin: 12
+[*, a, a, a, X, a, 1, 1, 1, =, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q4*>q511
+Positoin: 13
+[*, a, a, a, X, a, 1, 1, 1, =, 1, 1, 1, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q5s>q2*-1
+Positoin: 12
+[*, a, a, a, X, a, 1, 1, 1, =, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q21>q21-1
+Positoin: 11
+[*, a, a, a, X, a, 1, 1, 1, =, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q21>q21-1
+Positoin: 10
+[*, a, a, a, X, a, 1, 1, 1, =, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q21>q21-1
+Positoin: 9
+[*, a, a, a, X, a, 1, 1, 1, =, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q2=>q2=-1
+Positoin: 8
+[*, a, a, a, X, a, 1, 1, 1, =, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q21>q21-1
+Positoin: 7
+[*, a, a, a, X, a, 1, 1, 1, =, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q21>q21-1
+Positoin: 6
+[*, a, a, a, X, a, 1, 1, 1, =, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q21>q21-1
+Positoin: 5
+[*, a, a, a, X, a, 1, 1, 1, =, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q2a>q2a-1
+Positoin: 4
+[*, a, a, a, X, a, 1, 1, 1, =, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q2X>q3X-1
+Positoin: 3
+[*, a, a, a, X, a, 1, 1, 1, =, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q3a>q3a-1
+Positoin: 2
+[*, a, a, a, X, a, 1, 1, 1, =, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q3a>q3a-1
+Positoin: 1
+[*, a, a, a, X, a, 1, 1, 1, =, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q3a>q3a-1
+Positoin: 0
+[*, a, a, a, X, a, 1, 1, 1, =, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q3*>q6*1
+Positoin: 1
+[*, a, a, a, X, a, 1, 1, 1, =, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q6a>q611
+Positoin: 2
+[*, 1, a, a, X, a, 1, 1, 1, =, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q6a>q611
+Positoin: 3
+[*, 1, 1, a, X, a, 1, 1, 1, =, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q6a>q611
+Positoin: 4
+[*, 1, 1, 1, X, a, 1, 1, 1, =, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q6X>q7X1
+Positoin: 5
+[*, 1, 1, 1, X, a, 1, 1, 1, =, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q7a>q7a1
+Positoin: 6
+[*, 1, 1, 1, X, a, 1, 1, 1, =, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q71>q2a1
+Positoin: 7
+[*, 1, 1, 1, X, a, a, 1, 1, =, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q21>q21-1
+Positoin: 6
+[*, 1, 1, 1, X, a, a, 1, 1, =, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q2a>q2a-1
+Positoin: 5
+[*, 1, 1, 1, X, a, a, 1, 1, =, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q2a>q2a-1
+Positoin: 4
+[*, 1, 1, 1, X, a, a, 1, 1, =, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q2X>q3X-1
+Positoin: 3
+[*, 1, 1, 1, X, a, a, 1, 1, =, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q31>q4a1
+Positoin: 4
+[*, 1, 1, a, X, a, a, 1, 1, =, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q4X>q4X1
+Positoin: 5
+[*, 1, 1, a, X, a, a, 1, 1, =, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q4a>q4a1
+Positoin: 6
+[*, 1, 1, a, X, a, a, 1, 1, =, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q4a>q4a1
+Positoin: 7
+[*, 1, 1, a, X, a, a, 1, 1, =, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q41>q411
+Positoin: 8
+[*, 1, 1, a, X, a, a, 1, 1, =, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q41>q411
+Positoin: 9
+[*, 1, 1, a, X, a, a, 1, 1, =, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q4=>q4=1
+Positoin: 10
+[*, 1, 1, a, X, a, a, 1, 1, =, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q41>q411
+Positoin: 11
+[*, 1, 1, a, X, a, a, 1, 1, =, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q41>q411
+Positoin: 12
+[*, 1, 1, a, X, a, a, 1, 1, =, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q41>q411
+Positoin: 13
+[*, 1, 1, a, X, a, a, 1, 1, =, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q4*>q511
+Positoin: 14
+[*, 1, 1, a, X, a, a, 1, 1, =, 1, 1, 1, 1, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q5s>q2*-1
+Positoin: 13
+[*, 1, 1, a, X, a, a, 1, 1, =, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q21>q21-1
+Positoin: 12
+[*, 1, 1, a, X, a, a, 1, 1, =, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q21>q21-1
+Positoin: 11
+[*, 1, 1, a, X, a, a, 1, 1, =, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q21>q21-1
+Positoin: 10
+[*, 1, 1, a, X, a, a, 1, 1, =, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q21>q21-1
+Positoin: 9
+[*, 1, 1, a, X, a, a, 1, 1, =, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q2=>q2=-1
+Positoin: 8
+[*, 1, 1, a, X, a, a, 1, 1, =, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q21>q21-1
+Positoin: 7
+[*, 1, 1, a, X, a, a, 1, 1, =, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q21>q21-1
+Positoin: 6
+[*, 1, 1, a, X, a, a, 1, 1, =, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q2a>q2a-1
+Positoin: 5
+[*, 1, 1, a, X, a, a, 1, 1, =, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q2a>q2a-1
+Positoin: 4
+[*, 1, 1, a, X, a, a, 1, 1, =, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q2X>q3X-1
+Positoin: 3
+[*, 1, 1, a, X, a, a, 1, 1, =, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q3a>q3a-1
+Positoin: 2
+[*, 1, 1, a, X, a, a, 1, 1, =, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q31>q4a1
+Positoin: 3
+[*, 1, a, a, X, a, a, 1, 1, =, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q4a>q4a1
+Positoin: 4
+[*, 1, a, a, X, a, a, 1, 1, =, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q4X>q4X1
+Positoin: 5
+[*, 1, a, a, X, a, a, 1, 1, =, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q4a>q4a1
+Positoin: 6
+[*, 1, a, a, X, a, a, 1, 1, =, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q4a>q4a1
+Positoin: 7
+[*, 1, a, a, X, a, a, 1, 1, =, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q41>q411
+Positoin: 8
+[*, 1, a, a, X, a, a, 1, 1, =, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q41>q411
+Positoin: 9
+[*, 1, a, a, X, a, a, 1, 1, =, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q4=>q4=1
+Positoin: 10
+[*, 1, a, a, X, a, a, 1, 1, =, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q41>q411
+Positoin: 11
+[*, 1, a, a, X, a, a, 1, 1, =, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q41>q411
+Positoin: 12
+[*, 1, a, a, X, a, a, 1, 1, =, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q41>q411
+Positoin: 13
+[*, 1, a, a, X, a, a, 1, 1, =, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q41>q411
+Positoin: 14
+[*, 1, a, a, X, a, a, 1, 1, =, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q4*>q511
+Positoin: 15
+[*, 1, a, a, X, a, a, 1, 1, =, 1, 1, 1, 1, 1, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q5s>q2*-1
+Positoin: 14
+[*, 1, a, a, X, a, a, 1, 1, =, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q21>q21-1
+Positoin: 13
+[*, 1, a, a, X, a, a, 1, 1, =, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q21>q21-1
+Positoin: 12
+[*, 1, a, a, X, a, a, 1, 1, =, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q21>q21-1
+Positoin: 11
+[*, 1, a, a, X, a, a, 1, 1, =, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q21>q21-1
+Positoin: 10
+[*, 1, a, a, X, a, a, 1, 1, =, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q21>q21-1
+Positoin: 9
+[*, 1, a, a, X, a, a, 1, 1, =, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q2=>q2=-1
+Positoin: 8
+[*, 1, a, a, X, a, a, 1, 1, =, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q21>q21-1
+Positoin: 7
+[*, 1, a, a, X, a, a, 1, 1, =, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q21>q21-1
+Positoin: 6
+[*, 1, a, a, X, a, a, 1, 1, =, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q2a>q2a-1
+Positoin: 5
+[*, 1, a, a, X, a, a, 1, 1, =, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q2a>q2a-1
+Positoin: 4
+[*, 1, a, a, X, a, a, 1, 1, =, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q2X>q3X-1
+Positoin: 3
+[*, 1, a, a, X, a, a, 1, 1, =, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q3a>q3a-1
+Positoin: 2
+[*, 1, a, a, X, a, a, 1, 1, =, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q3a>q3a-1
+Positoin: 1
+[*, 1, a, a, X, a, a, 1, 1, =, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q31>q4a1
+Positoin: 2
+[*, a, a, a, X, a, a, 1, 1, =, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q4a>q4a1
+Positoin: 3
+[*, a, a, a, X, a, a, 1, 1, =, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q4a>q4a1
+Positoin: 4
+[*, a, a, a, X, a, a, 1, 1, =, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q4X>q4X1
+Positoin: 5
+[*, a, a, a, X, a, a, 1, 1, =, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q4a>q4a1
+Positoin: 6
+[*, a, a, a, X, a, a, 1, 1, =, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q4a>q4a1
+Positoin: 7
+[*, a, a, a, X, a, a, 1, 1, =, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q41>q411
+Positoin: 8
+[*, a, a, a, X, a, a, 1, 1, =, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q41>q411
+Positoin: 9
+[*, a, a, a, X, a, a, 1, 1, =, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q4=>q4=1
+Positoin: 10
+[*, a, a, a, X, a, a, 1, 1, =, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q41>q411
+Positoin: 11
+[*, a, a, a, X, a, a, 1, 1, =, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q41>q411
+Positoin: 12
+[*, a, a, a, X, a, a, 1, 1, =, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q41>q411
+Positoin: 13
+[*, a, a, a, X, a, a, 1, 1, =, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q41>q411
+Positoin: 14
+[*, a, a, a, X, a, a, 1, 1, =, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q41>q411
+Positoin: 15
+[*, a, a, a, X, a, a, 1, 1, =, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q4*>q511
+Positoin: 16
+[*, a, a, a, X, a, a, 1, 1, =, 1, 1, 1, 1, 1, 1, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q5s>q2*-1
+Positoin: 15
+[*, a, a, a, X, a, a, 1, 1, =, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q21>q21-1
+Positoin: 14
+[*, a, a, a, X, a, a, 1, 1, =, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q21>q21-1
+Positoin: 13
+[*, a, a, a, X, a, a, 1, 1, =, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q21>q21-1
+Positoin: 12
+[*, a, a, a, X, a, a, 1, 1, =, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q21>q21-1
+Positoin: 11
+[*, a, a, a, X, a, a, 1, 1, =, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q21>q21-1
+Positoin: 10
+[*, a, a, a, X, a, a, 1, 1, =, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q21>q21-1
+Positoin: 9
+[*, a, a, a, X, a, a, 1, 1, =, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q2=>q2=-1
+Positoin: 8
+[*, a, a, a, X, a, a, 1, 1, =, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q21>q21-1
+Positoin: 7
+[*, a, a, a, X, a, a, 1, 1, =, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q21>q21-1
+Positoin: 6
+[*, a, a, a, X, a, a, 1, 1, =, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q2a>q2a-1
+Positoin: 5
+[*, a, a, a, X, a, a, 1, 1, =, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q2a>q2a-1
+Positoin: 4
+[*, a, a, a, X, a, a, 1, 1, =, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q2X>q3X-1
+Positoin: 3
+[*, a, a, a, X, a, a, 1, 1, =, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q3a>q3a-1
+Positoin: 2
+[*, a, a, a, X, a, a, 1, 1, =, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q3a>q3a-1
+Positoin: 1
+[*, a, a, a, X, a, a, 1, 1, =, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q3a>q3a-1
+Positoin: 0
+[*, a, a, a, X, a, a, 1, 1, =, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q3*>q6*1
+Positoin: 1
+[*, a, a, a, X, a, a, 1, 1, =, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q6a>q611
+Positoin: 2
+[*, 1, a, a, X, a, a, 1, 1, =, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q6a>q611
+Positoin: 3
+[*, 1, 1, a, X, a, a, 1, 1, =, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q6a>q611
+Positoin: 4
+[*, 1, 1, 1, X, a, a, 1, 1, =, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q6X>q7X1
+Positoin: 5
+[*, 1, 1, 1, X, a, a, 1, 1, =, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q7a>q7a1
+Positoin: 6
+[*, 1, 1, 1, X, a, a, 1, 1, =, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q7a>q7a1
+Positoin: 7
+[*, 1, 1, 1, X, a, a, 1, 1, =, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q71>q2a1
+Positoin: 8
+[*, 1, 1, 1, X, a, a, a, 1, =, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q21>q21-1
+Positoin: 7
+[*, 1, 1, 1, X, a, a, a, 1, =, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q2a>q2a-1
+Positoin: 6
+[*, 1, 1, 1, X, a, a, a, 1, =, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q2a>q2a-1
+Positoin: 5
+[*, 1, 1, 1, X, a, a, a, 1, =, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q2a>q2a-1
+Positoin: 4
+[*, 1, 1, 1, X, a, a, a, 1, =, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q2X>q3X-1
+Positoin: 3
+[*, 1, 1, 1, X, a, a, a, 1, =, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q31>q4a1
+Positoin: 4
+[*, 1, 1, a, X, a, a, a, 1, =, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q4X>q4X1
+Positoin: 5
+[*, 1, 1, a, X, a, a, a, 1, =, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q4a>q4a1
+Positoin: 6
+[*, 1, 1, a, X, a, a, a, 1, =, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q4a>q4a1
+Positoin: 7
+[*, 1, 1, a, X, a, a, a, 1, =, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q4a>q4a1
+Positoin: 8
+[*, 1, 1, a, X, a, a, a, 1, =, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q41>q411
+Positoin: 9
+[*, 1, 1, a, X, a, a, a, 1, =, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q4=>q4=1
+Positoin: 10
+[*, 1, 1, a, X, a, a, a, 1, =, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q41>q411
+Positoin: 11
+[*, 1, 1, a, X, a, a, a, 1, =, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q41>q411
+Positoin: 12
+[*, 1, 1, a, X, a, a, a, 1, =, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q41>q411
+Positoin: 13
+[*, 1, 1, a, X, a, a, a, 1, =, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q41>q411
+Positoin: 14
+[*, 1, 1, a, X, a, a, a, 1, =, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q41>q411
+Positoin: 15
+[*, 1, 1, a, X, a, a, a, 1, =, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q41>q411
+Positoin: 16
+[*, 1, 1, a, X, a, a, a, 1, =, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q4*>q511
+Positoin: 17
+[*, 1, 1, a, X, a, a, a, 1, =, 1, 1, 1, 1, 1, 1, 1, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q5s>q2*-1
+Positoin: 16
+[*, 1, 1, a, X, a, a, a, 1, =, 1, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q21>q21-1
+Positoin: 15
+[*, 1, 1, a, X, a, a, a, 1, =, 1, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q21>q21-1
+Positoin: 14
+[*, 1, 1, a, X, a, a, a, 1, =, 1, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q21>q21-1
+Positoin: 13
+[*, 1, 1, a, X, a, a, a, 1, =, 1, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q21>q21-1
+Positoin: 12
+[*, 1, 1, a, X, a, a, a, 1, =, 1, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q21>q21-1
+Positoin: 11
+[*, 1, 1, a, X, a, a, a, 1, =, 1, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q21>q21-1
+Positoin: 10
+[*, 1, 1, a, X, a, a, a, 1, =, 1, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q21>q21-1
+Positoin: 9
+[*, 1, 1, a, X, a, a, a, 1, =, 1, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q2=>q2=-1
+Positoin: 8
+[*, 1, 1, a, X, a, a, a, 1, =, 1, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q21>q21-1
+Positoin: 7
+[*, 1, 1, a, X, a, a, a, 1, =, 1, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q2a>q2a-1
+Positoin: 6
+[*, 1, 1, a, X, a, a, a, 1, =, 1, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q2a>q2a-1
+Positoin: 5
+[*, 1, 1, a, X, a, a, a, 1, =, 1, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q2a>q2a-1
+Positoin: 4
+[*, 1, 1, a, X, a, a, a, 1, =, 1, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q2X>q3X-1
+Positoin: 3
+[*, 1, 1, a, X, a, a, a, 1, =, 1, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q3a>q3a-1
+Positoin: 2
+[*, 1, 1, a, X, a, a, a, 1, =, 1, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q31>q4a1
+Positoin: 3
+[*, 1, a, a, X, a, a, a, 1, =, 1, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q4a>q4a1
+Positoin: 4
+[*, 1, a, a, X, a, a, a, 1, =, 1, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q4X>q4X1
+Positoin: 5
+[*, 1, a, a, X, a, a, a, 1, =, 1, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q4a>q4a1
+Positoin: 6
+[*, 1, a, a, X, a, a, a, 1, =, 1, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q4a>q4a1
+Positoin: 7
+[*, 1, a, a, X, a, a, a, 1, =, 1, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q4a>q4a1
+Positoin: 8
+[*, 1, a, a, X, a, a, a, 1, =, 1, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q41>q411
+Positoin: 9
+[*, 1, a, a, X, a, a, a, 1, =, 1, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q4=>q4=1
+Positoin: 10
+[*, 1, a, a, X, a, a, a, 1, =, 1, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q41>q411
+Positoin: 11
+[*, 1, a, a, X, a, a, a, 1, =, 1, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q41>q411
+Positoin: 12
+[*, 1, a, a, X, a, a, a, 1, =, 1, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q41>q411
+Positoin: 13
+[*, 1, a, a, X, a, a, a, 1, =, 1, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q41>q411
+Positoin: 14
+[*, 1, a, a, X, a, a, a, 1, =, 1, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q41>q411
+Positoin: 15
+[*, 1, a, a, X, a, a, a, 1, =, 1, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q41>q411
+Positoin: 16
+[*, 1, a, a, X, a, a, a, 1, =, 1, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q41>q411
+Positoin: 17
+[*, 1, a, a, X, a, a, a, 1, =, 1, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q4*>q511
+Positoin: 18
+[*, 1, a, a, X, a, a, a, 1, =, 1, 1, 1, 1, 1, 1, 1, 1, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q5s>q2*-1
+Positoin: 17
+[*, 1, a, a, X, a, a, a, 1, =, 1, 1, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q21>q21-1
+Positoin: 16
+[*, 1, a, a, X, a, a, a, 1, =, 1, 1, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q21>q21-1
+Positoin: 15
+[*, 1, a, a, X, a, a, a, 1, =, 1, 1, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q21>q21-1
+Positoin: 14
+[*, 1, a, a, X, a, a, a, 1, =, 1, 1, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q21>q21-1
+Positoin: 13
+[*, 1, a, a, X, a, a, a, 1, =, 1, 1, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q21>q21-1
+Positoin: 12
+[*, 1, a, a, X, a, a, a, 1, =, 1, 1, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q21>q21-1
+Positoin: 11
+[*, 1, a, a, X, a, a, a, 1, =, 1, 1, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q21>q21-1
+Positoin: 10
+[*, 1, a, a, X, a, a, a, 1, =, 1, 1, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q21>q21-1
+Positoin: 9
+[*, 1, a, a, X, a, a, a, 1, =, 1, 1, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q2=>q2=-1
+Positoin: 8
+[*, 1, a, a, X, a, a, a, 1, =, 1, 1, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q21>q21-1
+Positoin: 7
+[*, 1, a, a, X, a, a, a, 1, =, 1, 1, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q2a>q2a-1
+Positoin: 6
+[*, 1, a, a, X, a, a, a, 1, =, 1, 1, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q2a>q2a-1
+Positoin: 5
+[*, 1, a, a, X, a, a, a, 1, =, 1, 1, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q2a>q2a-1
+Positoin: 4
+[*, 1, a, a, X, a, a, a, 1, =, 1, 1, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q2X>q3X-1
+Positoin: 3
+[*, 1, a, a, X, a, a, a, 1, =, 1, 1, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q3a>q3a-1
+Positoin: 2
+[*, 1, a, a, X, a, a, a, 1, =, 1, 1, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q3a>q3a-1
+Positoin: 1
+[*, 1, a, a, X, a, a, a, 1, =, 1, 1, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q31>q4a1
+Positoin: 2
+[*, a, a, a, X, a, a, a, 1, =, 1, 1, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q4a>q4a1
+Positoin: 3
+[*, a, a, a, X, a, a, a, 1, =, 1, 1, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q4a>q4a1
+Positoin: 4
+[*, a, a, a, X, a, a, a, 1, =, 1, 1, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q4X>q4X1
+Positoin: 5
+[*, a, a, a, X, a, a, a, 1, =, 1, 1, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q4a>q4a1
+Positoin: 6
+[*, a, a, a, X, a, a, a, 1, =, 1, 1, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q4a>q4a1
+Positoin: 7
+[*, a, a, a, X, a, a, a, 1, =, 1, 1, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q4a>q4a1
+Positoin: 8
+[*, a, a, a, X, a, a, a, 1, =, 1, 1, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q41>q411
+Positoin: 9
+[*, a, a, a, X, a, a, a, 1, =, 1, 1, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q4=>q4=1
+Positoin: 10
+[*, a, a, a, X, a, a, a, 1, =, 1, 1, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q41>q411
+Positoin: 11
+[*, a, a, a, X, a, a, a, 1, =, 1, 1, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q41>q411
+Positoin: 12
+[*, a, a, a, X, a, a, a, 1, =, 1, 1, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q41>q411
+Positoin: 13
+[*, a, a, a, X, a, a, a, 1, =, 1, 1, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q41>q411
+Positoin: 14
+[*, a, a, a, X, a, a, a, 1, =, 1, 1, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q41>q411
+Positoin: 15
+[*, a, a, a, X, a, a, a, 1, =, 1, 1, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q41>q411
+Positoin: 16
+[*, a, a, a, X, a, a, a, 1, =, 1, 1, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q41>q411
+Positoin: 17
+[*, a, a, a, X, a, a, a, 1, =, 1, 1, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q41>q411
+Positoin: 18
+[*, a, a, a, X, a, a, a, 1, =, 1, 1, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q4*>q511
+Positoin: 19
+[*, a, a, a, X, a, a, a, 1, =, 1, 1, 1, 1, 1, 1, 1, 1, 1, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q5s>q2*-1
+Positoin: 18
+[*, a, a, a, X, a, a, a, 1, =, 1, 1, 1, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q21>q21-1
+Positoin: 17
+[*, a, a, a, X, a, a, a, 1, =, 1, 1, 1, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q21>q21-1
+Positoin: 16
+[*, a, a, a, X, a, a, a, 1, =, 1, 1, 1, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q21>q21-1
+Positoin: 15
+[*, a, a, a, X, a, a, a, 1, =, 1, 1, 1, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q21>q21-1
+Positoin: 14
+[*, a, a, a, X, a, a, a, 1, =, 1, 1, 1, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q21>q21-1
+Positoin: 13
+[*, a, a, a, X, a, a, a, 1, =, 1, 1, 1, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q21>q21-1
+Positoin: 12
+[*, a, a, a, X, a, a, a, 1, =, 1, 1, 1, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q21>q21-1
+Positoin: 11
+[*, a, a, a, X, a, a, a, 1, =, 1, 1, 1, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q21>q21-1
+Positoin: 10
+[*, a, a, a, X, a, a, a, 1, =, 1, 1, 1, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q21>q21-1
+Positoin: 9
+[*, a, a, a, X, a, a, a, 1, =, 1, 1, 1, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q2=>q2=-1
+Positoin: 8
+[*, a, a, a, X, a, a, a, 1, =, 1, 1, 1, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q21>q21-1
+Positoin: 7
+[*, a, a, a, X, a, a, a, 1, =, 1, 1, 1, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q2a>q2a-1
+Positoin: 6
+[*, a, a, a, X, a, a, a, 1, =, 1, 1, 1, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q2a>q2a-1
+Positoin: 5
+[*, a, a, a, X, a, a, a, 1, =, 1, 1, 1, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q2a>q2a-1
+Positoin: 4
+[*, a, a, a, X, a, a, a, 1, =, 1, 1, 1, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q2X>q3X-1
+Positoin: 3
+[*, a, a, a, X, a, a, a, 1, =, 1, 1, 1, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q3a>q3a-1
+Positoin: 2
+[*, a, a, a, X, a, a, a, 1, =, 1, 1, 1, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q3a>q3a-1
+Positoin: 1
+[*, a, a, a, X, a, a, a, 1, =, 1, 1, 1, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q3a>q3a-1
+Positoin: 0
+[*, a, a, a, X, a, a, a, 1, =, 1, 1, 1, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q3*>q6*1
+Positoin: 1
+[*, a, a, a, X, a, a, a, 1, =, 1, 1, 1, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q6a>q611
+Positoin: 2
+[*, 1, a, a, X, a, a, a, 1, =, 1, 1, 1, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q6a>q611
+Positoin: 3
+[*, 1, 1, a, X, a, a, a, 1, =, 1, 1, 1, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q6a>q611
+Positoin: 4
+[*, 1, 1, 1, X, a, a, a, 1, =, 1, 1, 1, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q6X>q7X1
+Positoin: 5
+[*, 1, 1, 1, X, a, a, a, 1, =, 1, 1, 1, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q7a>q7a1
+Positoin: 6
+[*, 1, 1, 1, X, a, a, a, 1, =, 1, 1, 1, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q7a>q7a1
+Positoin: 7
+[*, 1, 1, 1, X, a, a, a, 1, =, 1, 1, 1, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q7a>q7a1
+Positoin: 8
+[*, 1, 1, 1, X, a, a, a, 1, =, 1, 1, 1, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q71>q2a1
+Positoin: 9
+[*, 1, 1, 1, X, a, a, a, a, =, 1, 1, 1, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q2=>q2=-1
+Positoin: 8
+[*, 1, 1, 1, X, a, a, a, a, =, 1, 1, 1, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q2a>q2a-1
+Positoin: 7
+[*, 1, 1, 1, X, a, a, a, a, =, 1, 1, 1, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q2a>q2a-1
+Positoin: 6
+[*, 1, 1, 1, X, a, a, a, a, =, 1, 1, 1, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q2a>q2a-1
+Positoin: 5
+[*, 1, 1, 1, X, a, a, a, a, =, 1, 1, 1, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q2a>q2a-1
+Positoin: 4
+[*, 1, 1, 1, X, a, a, a, a, =, 1, 1, 1, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q2X>q3X-1
+Positoin: 3
+[*, 1, 1, 1, X, a, a, a, a, =, 1, 1, 1, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q31>q4a1
+Positoin: 4
+[*, 1, 1, a, X, a, a, a, a, =, 1, 1, 1, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q4X>q4X1
+Positoin: 5
+[*, 1, 1, a, X, a, a, a, a, =, 1, 1, 1, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q4a>q4a1
+Positoin: 6
+[*, 1, 1, a, X, a, a, a, a, =, 1, 1, 1, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q4a>q4a1
+Positoin: 7
+[*, 1, 1, a, X, a, a, a, a, =, 1, 1, 1, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q4a>q4a1
+Positoin: 8
+[*, 1, 1, a, X, a, a, a, a, =, 1, 1, 1, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q4a>q4a1
+Positoin: 9
+[*, 1, 1, a, X, a, a, a, a, =, 1, 1, 1, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q4=>q4=1
+Positoin: 10
+[*, 1, 1, a, X, a, a, a, a, =, 1, 1, 1, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q41>q411
+Positoin: 11
+[*, 1, 1, a, X, a, a, a, a, =, 1, 1, 1, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q41>q411
+Positoin: 12
+[*, 1, 1, a, X, a, a, a, a, =, 1, 1, 1, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q41>q411
+Positoin: 13
+[*, 1, 1, a, X, a, a, a, a, =, 1, 1, 1, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q41>q411
+Positoin: 14
+[*, 1, 1, a, X, a, a, a, a, =, 1, 1, 1, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q41>q411
+Positoin: 15
+[*, 1, 1, a, X, a, a, a, a, =, 1, 1, 1, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q41>q411
+Positoin: 16
+[*, 1, 1, a, X, a, a, a, a, =, 1, 1, 1, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q41>q411
+Positoin: 17
+[*, 1, 1, a, X, a, a, a, a, =, 1, 1, 1, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q41>q411
+Positoin: 18
+[*, 1, 1, a, X, a, a, a, a, =, 1, 1, 1, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q41>q411
+Positoin: 19
+[*, 1, 1, a, X, a, a, a, a, =, 1, 1, 1, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q4*>q511
+Positoin: 20
+[*, 1, 1, a, X, a, a, a, a, =, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q5s>q2*-1
+Positoin: 19
+[*, 1, 1, a, X, a, a, a, a, =, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q21>q21-1
+Positoin: 18
+[*, 1, 1, a, X, a, a, a, a, =, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q21>q21-1
+Positoin: 17
+[*, 1, 1, a, X, a, a, a, a, =, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q21>q21-1
+Positoin: 16
+[*, 1, 1, a, X, a, a, a, a, =, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q21>q21-1
+Positoin: 15
+[*, 1, 1, a, X, a, a, a, a, =, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q21>q21-1
+Positoin: 14
+[*, 1, 1, a, X, a, a, a, a, =, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q21>q21-1
+Positoin: 13
+[*, 1, 1, a, X, a, a, a, a, =, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q21>q21-1
+Positoin: 12
+[*, 1, 1, a, X, a, a, a, a, =, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q21>q21-1
+Positoin: 11
+[*, 1, 1, a, X, a, a, a, a, =, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q21>q21-1
+Positoin: 10
+[*, 1, 1, a, X, a, a, a, a, =, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q21>q21-1
+Positoin: 9
+[*, 1, 1, a, X, a, a, a, a, =, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q2=>q2=-1
+Positoin: 8
+[*, 1, 1, a, X, a, a, a, a, =, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q2a>q2a-1
+Positoin: 7
+[*, 1, 1, a, X, a, a, a, a, =, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q2a>q2a-1
+Positoin: 6
+[*, 1, 1, a, X, a, a, a, a, =, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q2a>q2a-1
+Positoin: 5
+[*, 1, 1, a, X, a, a, a, a, =, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q2a>q2a-1
+Positoin: 4
+[*, 1, 1, a, X, a, a, a, a, =, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q2X>q3X-1
+Positoin: 3
+[*, 1, 1, a, X, a, a, a, a, =, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q3a>q3a-1
+Positoin: 2
+[*, 1, 1, a, X, a, a, a, a, =, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q31>q4a1
+Positoin: 3
+[*, 1, a, a, X, a, a, a, a, =, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q4a>q4a1
+Positoin: 4
+[*, 1, a, a, X, a, a, a, a, =, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q4X>q4X1
+Positoin: 5
+[*, 1, a, a, X, a, a, a, a, =, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q4a>q4a1
+Positoin: 6
+[*, 1, a, a, X, a, a, a, a, =, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q4a>q4a1
+Positoin: 7
+[*, 1, a, a, X, a, a, a, a, =, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q4a>q4a1
+Positoin: 8
+[*, 1, a, a, X, a, a, a, a, =, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q4a>q4a1
+Positoin: 9
+[*, 1, a, a, X, a, a, a, a, =, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q4=>q4=1
+Positoin: 10
+[*, 1, a, a, X, a, a, a, a, =, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q41>q411
+Positoin: 11
+[*, 1, a, a, X, a, a, a, a, =, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q41>q411
+Positoin: 12
+[*, 1, a, a, X, a, a, a, a, =, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q41>q411
+Positoin: 13
+[*, 1, a, a, X, a, a, a, a, =, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q41>q411
+Positoin: 14
+[*, 1, a, a, X, a, a, a, a, =, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q41>q411
+Positoin: 15
+[*, 1, a, a, X, a, a, a, a, =, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q41>q411
+Positoin: 16
+[*, 1, a, a, X, a, a, a, a, =, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q41>q411
+Positoin: 17
+[*, 1, a, a, X, a, a, a, a, =, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q41>q411
+Positoin: 18
+[*, 1, a, a, X, a, a, a, a, =, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q41>q411
+Positoin: 19
+[*, 1, a, a, X, a, a, a, a, =, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q41>q411
+Positoin: 20
+[*, 1, a, a, X, a, a, a, a, =, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q4*>q511
+Positoin: 21
+[*, 1, a, a, X, a, a, a, a, =, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q5s>q2*-1
+Positoin: 20
+[*, 1, a, a, X, a, a, a, a, =, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q21>q21-1
+Positoin: 19
+[*, 1, a, a, X, a, a, a, a, =, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q21>q21-1
+Positoin: 18
+[*, 1, a, a, X, a, a, a, a, =, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q21>q21-1
+Positoin: 17
+[*, 1, a, a, X, a, a, a, a, =, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q21>q21-1
+Positoin: 16
+[*, 1, a, a, X, a, a, a, a, =, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q21>q21-1
+Positoin: 15
+[*, 1, a, a, X, a, a, a, a, =, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q21>q21-1
+Positoin: 14
+[*, 1, a, a, X, a, a, a, a, =, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q21>q21-1
+Positoin: 13
+[*, 1, a, a, X, a, a, a, a, =, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q21>q21-1
+Positoin: 12
+[*, 1, a, a, X, a, a, a, a, =, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q21>q21-1
+Positoin: 11
+[*, 1, a, a, X, a, a, a, a, =, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q21>q21-1
+Positoin: 10
+[*, 1, a, a, X, a, a, a, a, =, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q21>q21-1
+Positoin: 9
+[*, 1, a, a, X, a, a, a, a, =, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q2=>q2=-1
+Positoin: 8
+[*, 1, a, a, X, a, a, a, a, =, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q2a>q2a-1
+Positoin: 7
+[*, 1, a, a, X, a, a, a, a, =, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q2a>q2a-1
+Positoin: 6
+[*, 1, a, a, X, a, a, a, a, =, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q2a>q2a-1
+Positoin: 5
+[*, 1, a, a, X, a, a, a, a, =, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q2a>q2a-1
+Positoin: 4
+[*, 1, a, a, X, a, a, a, a, =, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s]
+Operation: q2X>q3X-1
+Positoin: 3
+[*, 1, a, a, X, a, a, a, a, =, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, *, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, s, 
